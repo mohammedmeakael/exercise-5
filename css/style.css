@@ -1,0 +1,168 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: aliceblue;
+}
+#container{
+    width: 80vh;
+    height: 60vh;
+    background-color:   hsl(0, 0%, 100%);
+    margin-top: 10%;
+    margin-left: 30%;
+    border-radius: 5%;
+}
+#left-container{
+    float: left;
+    background-color: hsl(252, 100%, 67%);
+    width: 40vh;
+    height: 60vh;
+    border-radius: 5%;
+}
+#right-container{
+    float: right;
+    width: 40vh;
+    height: 60vh;
+}
+#tt{
+    text-align: center;
+    color: white;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+h6{
+    text-align: center;
+    color:  hsl(241, 100%, 89%);
+}
+#sd{
+    background-color:  hsl(234, 85%, 45%);
+    padding: 5%;
+    width: 13vh;
+    border-radius: 70px;
+    margin-left: 30%;
+    margin-top: 10%;
+}
+h2{
+    color: white;
+    text-align: center;
+}
+#td{
+    margin-top: 20%;
+}
+#fp,#sp{
+    text-align: center;
+    color: white;
+    font-size: 10px;
+}
+
+#fp{
+    color: white;
+}
+
+#ld{
+    margin-top: 10%;
+}
+h4{
+    margin-top: 7%;
+    margin-left: 7%;
+}
+
+
+#cnt{
+    display: flex;
+    align-items: center;
+    margin-left: 10%;
+    margin-top: 10%;
+    font-size: 12px;
+    background-color: hsla(0, 0%, 89%, 0.664);
+    padding: 4%;
+    width: 70%;
+    border-radius: 5px;
+}
+#image{
+    width: 12px;
+}
+#md{
+    margin-right: 20%;
+    color: hsl(0, 100%, 67%);
+}
+
+
+#s-cnt{
+    display: flex;
+    align-items: center;
+    margin-left: 10%;
+    margin-top: 5%;
+    font-size: 12px;
+    background-color: hsla(0, 33%, 92%, 0.922);
+    padding: 4%;
+    width: 70%;
+    border-radius: 5px;
+}
+#ad{
+    margin-right: 22%;
+    color: hsl(39, 100%, 56%);
+}
+#s-image{
+    width: 12px;
+}
+
+
+#t-cnt{
+    display: flex;
+    align-items: center;
+    margin-left: 10%;
+    margin-top: 5%;
+    font-size: 12px;
+    background-color:  hsl(170, 17%, 93%);
+    padding: 4%;
+    width: 70%;
+    border-radius: 5px;
+}
+#nd{
+    margin-right: 28%;
+    color:  hsl(166, 100%, 37%);
+}
+#t-image{
+    width: 12px;
+}
+
+
+#f-cnt{
+    display: flex;
+    align-items: center;
+    margin-left: 10%;
+    margin-top: 5%;
+    font-size: 12px;
+    background-color: hsl(228, 11%, 91%);
+    padding: 4%;
+    width: 70%;
+    border-radius: 5px;
+}
+#yd{
+    margin-right: 28%;
+    color: hsl(234, 85%, 45%);
+}
+#f-image{
+    width: 12px;
+}
+
+
+#anc{
+    margin-top: 20%;
+    background-color:    hsl(224, 30%, 27%);
+    width: 69%;
+    padding: 4%;
+    margin-left: 10%;
+    border-radius: 18px;
+}
+#m-anc{
+    text-decoration: none;
+    color: white;
+    margin-left: 30%;
+}
+
